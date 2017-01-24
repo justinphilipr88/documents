@@ -28,3 +28,12 @@
 #dropdown-menu-2btn-e .navbar-toggler {
   color: #000000;
 }
+
+#slider-r P {
+  font-size: 20px;
+}
+#slider-r H2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
